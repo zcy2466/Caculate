@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">caculate</string>
+    <drawable name="unpressed">#ffDEDEDE</drawable>
+    <drawable name="pressed">#F44336</drawable>
+</resources>
